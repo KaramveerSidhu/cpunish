@@ -11,16 +11,16 @@ Note: Do not share your original credit card details.
 """
 
 data = {
-	'cc_number': '4007000000027'
-	'cc_expmonth': '05'
-	'cc_expyear': '24'
-	'cc_cvv': '472'
+	'cc_number': '4007000000027',
+	'cc_expmonth': '05',
+	'cc_expyear': '24',
+	'cc_cvv': '472',
 }
  
 def sendRequest():
 	while True:
-		response = request(requestUrl, data = data).text  
-		print(response)
+		response = requests.post(requestUrl, data = data) 
+		print(response.text)
 
 threads = []
 
@@ -34,6 +34,3 @@ for i in range(50):
 
 for i in range(50):
 	threads[i].join()
-
-
-
