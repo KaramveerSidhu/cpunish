@@ -2,7 +2,7 @@
 <p>
 </p>
 
-I created a simple python script to punish credit card scammers by following this youtube utorial [EngineerMan](https://www.youtube.com/watch?v=StmNWzHbQJU)
+I created a simple python script to punish credit card scammers by following this youtube tutorial [EngineerMan](https://www.youtube.com/watch?v=StmNWzHbQJU)
 
 ### 🏠 [Homepage](https://github.com/KaramveerSidhu/cpunish)
 
