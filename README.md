@@ -29,6 +29,7 @@ When you visit a website that you are able to identify as a scam, they usually a
 ```sh
 python cpunish.py
 ```
+- Use Ctrl+C to stop the script once you feel enough requests have been sent. 
 
 ## Author
 
