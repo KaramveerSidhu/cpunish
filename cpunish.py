@@ -5,8 +5,7 @@ requestUrl = '' #Enter the URL to which the request is being made
 
 """
 You need to find out what type of data the request requires.
-You can do so by opening the network tab after inspecting the page element.
-Then enter the data accordingly. Below is an example of a valid VISA credit card.
+You can do so by opening the network tab after inspecting the page element. Then enter the data accordingly. Below is an example of a valid VISA credit card.
 Note: Do not share your original credit card details.
 
 """
