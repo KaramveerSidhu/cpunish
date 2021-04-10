@@ -24,7 +24,7 @@ When you visit a website that you are able to identify as a scam, they usually a
   <img src = "https://user-images.githubusercontent.com/51775341/114270304-3c3e8900-9a29-11eb-8b36-94f7fb80ac57.png">
 </p>
 
-- Run the script using the below command:
+- Run the script using
 
 ```sh
 python cpunish.py
