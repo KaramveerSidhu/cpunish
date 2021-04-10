@@ -12,7 +12,7 @@ When you visit a website that you are able to identify as a scam, they usually a
 
 ## Requirements
 - [Python](https://www.python.org/). Python is an interpreted, high-level and general-purpose programming language. 
-- [requests](https://pypi.org/project/requests/) module. You may install it using
+- [requests](https://pypi.org/project/requests/) module. You may install it (if not available by default) using:
 ```sh
 python -m pip install requests
 ```
@@ -32,7 +32,7 @@ python -m pip install requests
   <img src = "https://user-images.githubusercontent.com/51775341/114270304-3c3e8900-9a29-11eb-8b36-94f7fb80ac57.png">
 </p>
 
-- Run the script using
+- Run the script using:
 
 ```sh
 python cpunish.py
